@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,400i,600,700|Lobster');
+
+.page-color{
+    /*background-image: url("images/whitestripe.png");*/
+    background-color: #fcfdfe;
+}
+
+.jumbo-img{
+    background-image: url("images/redstripe.png");
+}
+
+.jumbo-style-text{
+    font-family: 'Lobster', Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 650;
+}
+
+.jumbo-style-sub{
+    font-family: 'Cabin', Verdana, Geneva, Tahoma, sans-serif;
+    color: #F5CA99;
+}
+
+.info-sub{
+    font-family: 'Cabin', Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.2rem;
+    background-image: url("images/redstripe.png");
+    color: #F5CA99;
+}
+
+/*Job and degree title*/
+/*main title*/
+h3{
+    font-family: 'Lobster', Verdana, Geneva, Tahoma, sans-serif;
+    color: #E34222;
+    font-size: 3.5rem;
+}
+
+.chev-color{
+    color:#E34222;
+}
+
+#h3-school{
+    font-family: 'Cabin', Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    color: #FE7A47;
+    font-size: 2.3rem; 
+}
+
+/*roles*/
+.title1{
+font-family: 'Cabin', Verdana, Geneva, Tahoma, sans-serif;
+font-size: 2.1rem;
+font-weight: 600;
+color: #E34222;
+}
+
+.body1{
+    font-family: 'Cabin', Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    color: #004D47;
+    font-size: 1.8rem;
+}
+
+#body1-i{
+    font-family: 'Cabin', Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    color: #004D47;
+    font-size: 1.7rem;
+}
+
+.skills{
+    font-family: 'Cabin', Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    color: #F5CA99;
+    font-size: 1.7rem;
+    background-color: #E34222;
+}
+
+.body2{
+    font-family: 'Cabin', Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    color: #004D47;
+    font-size: 2rem;
+}
+
+.table-td{
+    width: 250px;
+}
+
+a{
+    color: #004D47;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #F5CA99;
+    text-decoration: none;
+    background-color: #E34222;
+}
+
+a:visited{
+    color: #5EA8A7;
+    text-decoration: none;
+}
