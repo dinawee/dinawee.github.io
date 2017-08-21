@@ -1,3 +1,9 @@
-# my_resume
+# My Personal Page
 
-html and css/bootstrap practice
+## About
+- Coding practice
+- html and css/bootstrap
+
+## Links
+- Resume
+- Github
