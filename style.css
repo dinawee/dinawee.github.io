@@ -30,6 +30,7 @@
     font-family: 'Cabin', Verdana, Geneva, Tahoma, sans-serif;
     font-size: 2.2rem;
     color: #F5CA99;
+    color=#F5CA99;
 }
 
 /*Job and degree title*/
@@ -54,7 +55,7 @@ h3{
 /*roles*/
 .title1{
 font-family: 'Cabin', Verdana, Geneva, Tahoma, sans-serif;
-font-size: 2.1rem;
+font-size: 2.2rem;
 font-weight: 600;
 color: #E34222;
 }
@@ -63,7 +64,7 @@ color: #E34222;
     font-family: 'Cabin', Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 400;
     color: #004D47;
-    font-size: 1.8rem;
+    font-size: 2rem;
 }
 
 #body1-i{
